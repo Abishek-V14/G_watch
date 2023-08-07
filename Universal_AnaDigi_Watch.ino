@@ -164,7 +164,7 @@ void run(int a, int b) {
   digitalWrite(a, HIGH);
   digitalWrite(b, LOW);
   delay(10);
-
+//Have the pwm as per your requirements
   // digitalWrite(a, HIGH);
   // digitalWrite(b, LOW);
   // delay(5);
