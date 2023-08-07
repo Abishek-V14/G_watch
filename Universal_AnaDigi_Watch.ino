@@ -1,8 +1,8 @@
 //Main code
 
 //set the IND time for digital clock
-int h = 9;
-int m = 39;
+int h = 14;
+int m = 30;
 int s = 0;
 
 //default time IST (00:00)
