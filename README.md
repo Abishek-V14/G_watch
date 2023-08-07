@@ -4,4 +4,4 @@ This watch can change its time from one time zone to another time zone in an sin
 Done in Arduino UNO R3
 By
 Abishek V
-Electronics and communication Engineer
+(Electronics and communication Engineer)
